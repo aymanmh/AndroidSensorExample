@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestHello3</string>
+    <string name="myEnterButtonlbl">enter</string>
+    <string name="textHint">please enter somthing</string>
+    <string name="title_activity_async_">Async_Activity</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="title_activity_sensor">SensorActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
