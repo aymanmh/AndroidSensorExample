@@ -13,3 +13,5 @@ This is a sample experiment project that uses the accelerometer and magnetic fie
 - This works as a background service, there is nothing in the UI
 - The code also enables bluetooth and pairs with the PC, but doesn't use it yet.
 - The usefull logic is inside SensorActivity.java
+
+https://drive.google.com/file/d/0BzlFeJ0LkmwGSEJhb2pIRFVOWU0/view
